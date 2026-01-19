@@ -346,7 +346,7 @@ distance_l_r=prefix[r]-(prefix[l-1] if l-1>=0 else 0)
 
 查询从($x_1,y_1$)到($x_2,y_2$)的矩阵区域之和：`sum=prefix[x2+1][y2+1]-prefix[x1][y2+1]-prefix[x2+1][y1]+prefix[x1][y1]`.
 
-
+---
 
 #### 3.前缀和的特殊用法(哈希表)
 
