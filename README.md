@@ -1,5 +1,5 @@
 ## This repository contains materials in Introduction to Computation (B) (i.e., CS101) at Peking University.
-#### Author: Xu Han; Course Intrustor: Prof. Hongfei Yan.
+#### Author: Xu Han; Course Instructor: Prof. Hongfei Yan.
 
 - **Assignments**: weekly assignments and summary of learning;
 - **Cheat_sheet**: a revised version of cheat sheet that I used in preparation for the computer test (which might also be a great material to quickly review the grammar and algorithms that this lecture includes);
